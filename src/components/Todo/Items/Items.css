@@ -1,0 +1,37 @@
+.the-list {
+  list-style: none;
+  padding: 0;
+  width: 600px;
+}
+
+.the-list li {
+  color: #333;
+  padding: 15px;
+  margin-bottom: 15px;
+  border: 2px solid rgb(146, 230, 255);
+  border-radius: 5px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.the-list button {
+  padding: 5px;
+  font-size: 10px;
+  background-color: #0066FF;
+  color: #FFF;
+  border: 2px solid #0066FF;
+}
+
+.the-list button:hover {
+  background-color: #003399;
+  border: 2px solid #003399;
+  cursor: pointer;
+}
+
+.filter-grp{
+  display: flex;
+  justify-content: space-between;;
+}
+
