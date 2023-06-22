@@ -9,6 +9,8 @@ export default function Home() {
 
       <p>This example is meant to give you some components and processes to check against the VSC debugger:</p>
 
+      <p>Demonstration of Git</p>
+
       <ul>
         <li>First you'll need to configure the project for debugging via the launch.json file</li>
         <li>Then you'll start the project using F5</li>
